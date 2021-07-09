@@ -1,3 +1,4 @@
 Deploy
 Build
 CI/CD
+Development + operations
